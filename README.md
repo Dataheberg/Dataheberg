@@ -39,9 +39,9 @@ En cas de probleme,contacter par email support.dataheberg@dataheberg.com ou alle
 ## 📌 Lien
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-
-
-
+</br>
+</br>
+</br>
 # Hi,I'm DataHeberg 👋
 ![Logo](https://raw.githubusercontent.com/Dataheberg/Dataheberg/main/banniere_dataheberg.png)
 
@@ -57,11 +57,15 @@ Dynamism Thanks to our unique management and intervention system, we guarantee y
 
 
 # Hi,I'm DataHeberg 👋
+
 ## ⚙️ Support
 In case of problem, contact by email support.dataheberg@dataheberg.com or go directly on discord to report the problem : https://discord.gg/jSn4vuW4eD
+
 ## 🦁 Manager
 (⌐■_■) [@thorbeorn](https://github.com/thorbeorn) (▀̿Ĺ̯▀̿ ̿)
+
 ## 📍 Contributor
+
 [@thorbeorn](https://github.com/thorbeorn) 🤠
 
 [@./Foufoudu34](https://github.com/Foufou-exe) 😎

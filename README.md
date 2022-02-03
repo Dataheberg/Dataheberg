@@ -37,7 +37,7 @@ En cas de probleme,contacter par email support.dataheberg@dataheberg.com ou alle
 
 [@DenoxM](https://github.com/DenoxM) 🤓
 ## 📌 Lien
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dataheberg/)
 
 </br>
 </br>

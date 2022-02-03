@@ -168,7 +168,7 @@ In case of problem, contact by email support.dataheberg@dataheberg.com or go dir
 </br>
 </br>
 
-![Logo](https://img.shields.io/github/followers/Dataheberg?style=social) ![Logo](https://img.shields.io/github/stars/DataHeberg?style=social)
+![Logo](https://img.shields.io/github/followers/Dataheberg?style=social) &nbsp ![Logo](https://img.shields.io/github/stars/DataHeberg?style=social)
 
 
 

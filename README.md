@@ -78,5 +78,11 @@ In case of problem, contact by email support.dataheberg@dataheberg.com or go dir
 [@DenoxM](https://github.com/DenoxM) 🤓
 ## 📌 Link
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-## 🦁 Gérant
-(⌐■_■) [@thorbeorn](https://github.com/thorbeorn) (▀̿Ĺ̯▀̿ ̿)
+
+
+</br>
+</br>
+
+![Logo](https://img.shields.io/github/followers/Dataheberg?style=social)
+
+

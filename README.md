@@ -107,7 +107,7 @@ Grâce à notre système de gestion et d’intervention unique, nous vous garant
 
 ## ⚙️ Support
 
-En cas de probleme,contacter par email support.dataheberg@dataheberg.com ou allez directement sur discord signaler le probleme : https://discord.gg/jSn4vuW4eD
+En cas de probleme,contacter par email support@dataheberg.com ou allez directement sur discord signaler le probleme : https://discord.gg/jSn4vuW4eD
 ## 🦁 Gérant
 (⌐■_■) [@thorbeorn](https://github.com/thorbeorn) (▀̿Ĺ̯▀̿ ̿)
 ## 📍 Contributeur
@@ -145,7 +145,7 @@ Dynamism Thanks to our unique management and intervention system, we guarantee y
 # Hi,I'm DataHeberg 👋
 
 ## ⚙️ Support
-In case of problem, contact by email support.dataheberg@dataheberg.com or go directly on discord to report the problem : https://discord.gg/jSn4vuW4eD
+In case of problem, contact by email support@dataheberg.com or go directly on discord to report the problem : https://discord.gg/jSn4vuW4eD
 
 ## 🦁 Manager
 (⌐■_■) [@thorbeorn](https://github.com/thorbeorn) (▀̿Ĺ̯▀̿ ̿)
